@@ -6,6 +6,7 @@ public class Main {
         System.out.println("Hello again");
 
         int a = 10;
+
         System.out.println(a);
     }
 }
